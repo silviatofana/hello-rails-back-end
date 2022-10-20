@@ -2,7 +2,7 @@
 
 # Hello-Rails_back-end
 
-> This web application is the API that serves as the backend to the [Hello-react-front-end](https://github.com/Chrissiku/hello-react-front-end.git)
+> This web application is the API that serves as the backend to the [Hello-react-front-end](https://github.com/silviatofana/hello-react-front-end.git)
 
 
 ## Built With
