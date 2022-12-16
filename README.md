@@ -15,7 +15,6 @@
 > The live demo is no available 
 
 
-
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
